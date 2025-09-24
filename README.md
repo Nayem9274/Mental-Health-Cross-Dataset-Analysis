@@ -1,4 +1,20 @@
 #
-Even though recent days present several different datasets on mental health, conventional studies generally limit their scope to specific datasets within isolated contexts, leaving gaps in our understanding of how mental health evolves across different contexts. Therefore, going beyond such conventional studies, we examine three different mental health-related datasets – covering medical students, quarantined individuals, and those with psychiatric disorders – to offer comprehensive knowledge through a cross-dataset lens. In our study, using statistical and network-based analyses, we explore how age, gender, and education affect mental health outcomes in varying contexts. While isolated analyses of our considered datasets reveal important patterns, such as women experiencing heightened stress in quarantine and medical students displaying increased empathy, our cross-dataset analysis uncovers novel and unexpected insights. For instance, our cross-dataset analysis reveals that the impacts of age on mental health substantially vary during quarantine and in clinical settings. Additionally, although education is typically believed to be associated with better mental health, we find that this association does not hold for medical students. These findings underscore the value of cross-dataset analysis for offering richer insights into how external factors impact mental health across diverse contexts, providing valuable guidance for future research and interventions.
+ Mental health research has traditionally focused on isolated contexts, such as medical
+ education, quarantine, or clinical settings, without examining how demographic factors such
+ as age, gender, and education influence mental health across different populations and
+ settings. This lack of cross-context comparison limits our understanding of how demographic
+ and situational factors interact to shape mental health outcomes. To address this gap, we
+ conduct a comparative cross-dataset analysis using three distinct datasets—medical stu
+dents, quarantined individuals, and psychiatric disordered subjects—analyzing them sepa
+rately before drawing cross-context comparisons. Through statistical and network-based
+ analyses, we explore how demographic factors shape mental health outcomes in these varied
+ contexts. While isolated analyses reveal important patterns—such as women experiencing
+ heightened stress during quarantine and medical students displaying increased empathy—
+ our comparative approach uncovers novel insights. For instance, the impact of age on mental
+ health differs significantly between quarantine and clinical settings. Additionally, while higher
+ education is generally linked to better mental health, this association does not hold for
+ medical students. These findings highlight the value of cross-dataset analysis in providing
+ richer insights into how external factors impact mental health across diverse contexts,
+ offering valuable guidance for future research and interventions.
 #
-https://doi.org/10.5281/zenodo.13892297
+https://doi.org/10.1057/s41599-025-05053-x
